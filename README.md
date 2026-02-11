@@ -13,3 +13,4 @@ This repository demonstrates a complete DevOps infrastructure using:
 - GitHub Actions
 - Prometheus
 
+# Docker notes
