@@ -14,3 +14,4 @@ This repository demonstrates a complete DevOps infrastructure using:
 - Prometheus
 
 # Docker notes
+# Terraform notes
