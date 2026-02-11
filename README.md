@@ -1,3 +1,7 @@
+THIS IS A DEVOPS TRAINING PROGECT UPDATED FROM readme-conflict BRANCH 
+
+
+
 # DevOps Infrastructure Repository
 
 ## 📌 Description
